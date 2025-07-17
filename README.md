@@ -1,54 +1,31 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=DA70D6&center=true&vCenter=true&width=900&lines=Yow%2C+I'm+Viee+Permana!;Welcome+To+My+GitHub+😜;Coding+Is+Bestfriend+%F0%9F%94%A5" alt="Typing SVG" />
+<!-- 🌌 GitHub Profile README - Neon Ungu Hitam -->
 
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9A00FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Vieeprmna;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" />
-</p>
-
----
-
-## 📊 My portofolio  
-<p align="center">
-  <img src="img/dev.PNG" alt="GitHub Stats" />
-</p>
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFvN3hzbDV3eXdyaG5rdWMxNHNkcnk1NGlkdjV4dWV4bGZraW1iZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
+</div>
 
 ---
 
-## 🚀 About Me  
 
-- 🌱 Lagi belajar **Fullstack Web Development & Data Analysis**
-- ⚙️ Hobi ngulik `JavaScript`, `Html`, `SQL`
-- 🎮 Kadang ngoding buat mod game & bot Discord
+<h2 align="center">⚒️ Tech Stack</h2> <p align="center"> <img src="https://img.shields.io/badge/JavaScript-%239A00FF.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/PAWN-%239A00FF.svg?&style=for-the-badge&logo=code&logoColor=white"/>  </p>
+
+
+<h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vieeprmna&show_icons=true&theme=radical&title_color=9A00FF&icon_color=9A00FF&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vieeprmna&layout=compact&theme=radical&title_color=9A00FF&hide_border=true" height="170"/> </p>
+
+<h2 align="center">🔗 Connect with Me</h2> <p align="center"> <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-%239A00FF.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-%239A00FF.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-%239A00FF.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a> </p>
+
+
 
 ---
 
-## 🛠️ Pembelajaran 
+<h2 align="center">🧠 About Me</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Visual%20Studio%20Code-blue?logo=visualstudiocode&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
-</p>
-
---- 
+```yaml
+Name: M ALvie Permana
+Username: Vieeprmna
+Location: Indonesia
+Focus: Web Dev, SA-MP
 
 
-
- ## 📬 Contact Me
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/usernamekamu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/usernamekamu)
----
-
-## ⚡ Fun Fact  
-
-> **"Jangan tunggu mood — coding dulu, nanti mood yang nyusul 🚀"**
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=footer&text=Thanks%20for%20Visit!%20😘&fontColor=ffffff&fontSize=30&fontAlignY=55" />
-</p>
