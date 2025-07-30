@@ -1,31 +1,68 @@
-<!-- 🌌 GitHub Profile README - Neon Ungu Hitam -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Viee%20Permana&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9A00FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Vieeprmna;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFvN3hzbDV3eXdyaG5rdWMxNHNkcnk1NGlkdjV4dWV4bGZraW1iZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Dev+with+Vue.js;Dark+UI+.+Smooth+UX+.+Clean+Code;Exploring+the+web+with+minimal+style" />
+</p>
 
 ---
 
+## 🧠 About Me
 
-<h2 align="center">⚒️ Tech Stack</h2> <p align="center"> <img src="https://img.shields.io/badge/JavaScript-%239A00FF.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>  <img src="https://img.shields.io/badge/PAWN-%239A00FF.svg?&style=for-the-badge&logo=code&logoColor=white"/>  </p>
+- 💻 Fokus di **frontend development** dengan Vue.js
+- 🎨 Suka desain UI gelap, minimalis, dan interaktif
+- 🛠️ Aktif bikin animasi CSS, efek smooth, dan UI custom
 
+---
 
-<h2 align="center">📊 GitHub Stats</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vieeprmna&show_icons=true&theme=radical&title_color=9A00FF&icon_color=9A00FF&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vieeprmna&layout=compact&theme=radical&title_color=9A00FF&hide_border=true" height="170"/> </p>
+## 🧰 Tech Stack
 
-<h2 align="center">🔗 Connect with Me</h2> <p align="center"> <a href="https://instagram.com/_callmeviee"><img src="https://img.shields.io/badge/Instagram-%239A00FF.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="permanaalvi1@gmail.com"><img src="https://img.shields.io/badge/Email-%239A00FF.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,js,html,css,vscode,git,github&theme=dark" />
+</p>
 
+---
+
+## 🔥 Projects
+
+.........................                                       
+| `Smart Portfolio UI` 
+| `Flipcard Chatbot`   
+| `Vue js`   
+| `SA-MP GM`
+| `AI`                           
 
 
 ---
 
-<h2 align="center">🧠 About Me</h2>
+## 📈 Stats & Activity
 
-```yaml
-Name: M ALvie Permana
-Username: Vieeprmna
-Location: Indonesia
-Focus: Web Dev, SA-MP
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vieeprmna&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&title_color=333&text_color=444" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vieeprmna&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+</p>
 
+---
+
+## ✉️ Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/vieepermana">
+    <img src="https://img.shields.io/badge/@vieepermana-333333?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vieeprmna">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<p align="center"><em>“Code?.”</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
