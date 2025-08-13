@@ -49,7 +49,7 @@
 ## ✉️ Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/vieepermana">
+  <a href="https://instagram.com/_callmeviee">
     <img src="https://img.shields.io/badge/@vieepermana-333333?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/Vieeprmna">
