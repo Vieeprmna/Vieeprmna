@@ -1,68 +1,42 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Viee%20Permana&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+# 👋 Hi, I'm Viee Permana  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Dev+with+Vue.js;Dark+UI+.+Smooth+UX+.+Clean+Code;Exploring+the+web+with+minimal+style" />
-</p>
+💻 **Backend Developer** | ⚡ Problem Solver | 🚀 Tech Enthusiast  
 
 ---
 
-## 🧠 About Me
-
-- 💻 Fokus di **frontend development** dengan Vue.js
-- 🎨 Suka desain UI gelap, minimalis, dan interaktif
-- 🛠️ Aktif bikin animasi CSS, efek smooth, dan UI custom
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,js,html,css,vscode,git,github&theme=dark" />
-</p>
+## 🚀 About Me  
+- 🔭 Currently focusing on **Backend Development**  
+- 🌱 Learning deeper about **PostgreSQL, Express.js, and System Design**  
+- ⚡ Love to build **scalable API & backend systems**  
+- 🎯 Goal: Become a **high-level Backend Engineer**  
 
 ---
 
-## 🔥 Projects
+## 🛠️ Tech Stack  
 
-.........................                                       
-| `Smart Portfolio UI` 
-| `Flipcard Chatbot`   
-| `Vue js`   
-| `SA-MP GM`
-| `AI`                           
+### 🔹 Languages & Backend  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
-
----
-
-## 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vieeprmna&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&title_color=333&text_color=444" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vieeprmna&bg_color=000000&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
-</p>
+### 🔹 Tools & Others  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
-## ✉️ Connect with Me
+## 📊 GitHub Stats  
+![Viee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vieeprmna&show_icons=true&theme=tokyonight)  
 
-<p align="center">
-  <a href="https://instagram.com/_callmeviee">
-    <img src="https://img.shields.io/badge/@vieepermana-333333?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/Vieeprmna">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vieeprmna&layout=compact&theme=tokyonight)  
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viee-permana-55577437a/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com//_callmeviee)  
 
-<p align="center"><em>“Code?.”</em></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+---
+✨ _"Code, Learn, Repeat."_ ✨
