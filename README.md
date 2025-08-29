@@ -63,13 +63,6 @@ Building secure backend systems
 Practicing ethical hacking & automation
 Advanced API & database design
 
-Contact:
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourusername
-
-Telegram: https://t.me/yourusername
-
 Fun Fact:
 "If it's not automated, it's not optimized."
 ```
