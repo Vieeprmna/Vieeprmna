@@ -1,42 +1,76 @@
-# 👋 Hi, I'm Viee Permana  
+# Hi there 👋, I'm Viee Permana
 
-💻 **Backend Developer** | ⚡ Problem Solver | 🚀 Tech Enthusiast  
-
----
-
-## 🚀 About Me  
-- 🔭 Currently focusing on **Backend Development**  
-- 🌱 Learning deeper about **PostgreSQL, Express.js, and System Design**  
-- ⚡ Love to build **scalable API & backend systems**  
-- 🎯 Goal: Become a **high-level Backend Engineer**  
+🚀 **Backend Developer | Kali Linux Enthusiast | Security & Automation Lover**
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🔹 Languages & Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### 🔹 Tools & Others  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+### 🔹 About Me
+I'm passionate about **backend development** using Node.js, Express, PHP, MySQL, and PostgreSQL.  
+I love exploring **Kali Linux**, penetration testing tools, and security automation.  
+Always learning new ways to make **systems smarter, secure, and efficient**.  
+And yes, I enjoy **coding, tinkering with servers, and ethical hacking** 😎.
 
 ---
 
-## 📊 GitHub Stats  
-![Viee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vieeprmna&show_icons=true&theme=tokyonight)  
+### 🔹 Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vieeprmna&layout=compact&theme=tokyonight)  
+**Backend Development**
+- Languages: `JavaScript`, `TypeScript`, `PHP`
+- Frameworks: `Node.js`, `Express.js`, `NestJS` (in progress)
+- Databases: `MySQL`, `PostgreSQL`, `MongoDB`
+- REST APIs & CRUD Operations
+
+**Security & Linux**
+- OS: `Kali Linux`, `Ubuntu/Debian`
+- Tools: `nmap`, `hydra`, `sqlmap`, `Metasploit`
+- Scripting & Automation: `Bash`, `Python`
+- Networking & System Administration
+
+**Others**
+- Version Control: `Git`, `GitHub`
+- Deployment: `Docker`, `NGROK`, `VPS setup`
+- Frontend basics: `Vue.js`, `HTML/CSS/JS`
 
 ---
 
-## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viee-permana-55577437a/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com//_callmeviee)  
+### 🔹 Current Focus
+- Building **secure backend systems** for web apps  
+- Practicing **ethical hacking** & security automation on Kali Linux  
+- Learning **advanced database design** and **API integrations**
 
 ---
-✨ _"Code, Learn, Repeat."_ ✨
+
+```
+┌─────────────────────────────┐
+│ Welcome to Mister V's Lab! │
+└─────────────────────────────┘
+[+] Initializing environment...
+[+] Loading backend modules...
+[+] Connecting to Kali Linux tools...
+[+] Access granted.
+
+Username: Viee Permana
+Role: Backend Developer | Kali Linux Enthusiast
+
+Skills:
+Backend: Node.js, Express, PHP, MySQL, PostgreSQL
+Security: Kali Linux, Nmap, Hydra, SQLMap, Metasploit
+Scripting: Bash, Python
+Other: Git, Docker, Vue.js
+
+Current Focus:
+Building secure backend systems
+Practicing ethical hacking & automation
+Advanced API & database design
+
+Contact:
+GitHub: https://github.com/yourusername
+
+LinkedIn: https://linkedin.com/in/yourusername
+
+Telegram: https://t.me/yourusername
+
+Fun Fact:
+"If it's not automated, it's not optimized."
+```
+
